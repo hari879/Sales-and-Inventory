@@ -3,7 +3,7 @@
 
 This project is a **Sales and Inventory Analysis Dashboard** created using **Power BI**, designed to visualize and analyze sales performance, product trends, and customer behavior for a fictional fruits and vegetables dataset.
 
-📁 **File:** 
+📁 **File:** https://github.com/hari879/Sales-and-Inventory/blob/main/Sales%20of%20fruits%20and%20vegtables.pbix
 
 ---
 
